@@ -1,0 +1,2 @@
+A Matlab script that creates a periodic hexagonal grid. Used in John Mangles' Masters thesis Second Degree Localization in Twisted Bilayer Graphene.
+Plots a periodic grid matching the atomic locations in twisted bilayer graphene.
